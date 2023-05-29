@@ -1,0 +1,4 @@
+image Preprocessing: 
+1. https://www.analyticsvidhya.com/blog/2023/03/getting-started-with-image-processing-using-opencv/
+
+2. https://www.mygreatlearning.com/blog/introduction-to-image-pre-processing/
