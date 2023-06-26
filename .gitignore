@@ -4,7 +4,8 @@ preprocessed_images3
 preprocessed_images/
 preprocessed_images2/
 thresholded_images/
-hog_features/
+preprocessed_images4/
+augmented_images/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
