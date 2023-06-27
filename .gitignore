@@ -5,7 +5,10 @@ preprocessed_images/
 preprocessed_images2/
 thresholded_images/
 preprocessed_images4/
+preprocessed_images5/
 augmented_images/
+augmented_images_old/
+Augmented_Data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
