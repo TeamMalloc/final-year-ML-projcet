@@ -13,7 +13,23 @@ CSE-401/Augmented_Data1/
 CSE-401/train_preprocessed_data/
 CSE-401/test_preprocessed_data
 CSE-401/features
-
+CSE-401/archive.zip
+CSE-401/dataset
+CSE-402/Data_split_for_eye_disease.ipynb
+CSE-402/Splited_Dataset/
+CSE-402/Splited_dataset(0.7,0.15,0.15)/
+CSE-402/dataset/
+CSE-402/test_preprocessed_data/
+CSE-402/train_preprocessed_data/
+drive-download-20230904T202751Z-001.zip
+test_features1.npy
+test_labels1.npy
+features1.npy
+labels1.npy
+features2.npy
+labels2.npy
+test_features2.npy
+test_labels2.npy
 
 
 
@@ -24,6 +40,7 @@ __pycache__/
 
 # C extensions
 *.so
+
 
 # Distribution / packaging
 .Python
