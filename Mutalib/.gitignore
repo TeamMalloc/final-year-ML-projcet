@@ -24,9 +24,12 @@ CSE-402/train_preprocessed_data/
 drive-download-20230904T202751Z-001.zip
 test_features1.npy
 test_labels1.npy
-features.npy
-labels.npy
-
+features1.npy
+labels1.npy
+features2.npy
+labels2.npy
+test_features2.npy
+test_labels2.npy
 
 
 
